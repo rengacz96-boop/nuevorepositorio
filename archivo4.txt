@@ -1,2 +1,1 @@
-hola como estas
-hola a toda la clase
+hola mundo
